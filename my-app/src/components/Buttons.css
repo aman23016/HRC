@@ -1,0 +1,67 @@
+button{
+    outline: none;
+}
+button:hover{
+    background-color:#1a252c;
+}
+.normal-button{
+    background-color: #2d4250;
+    border: 2px solid deepskyblue;
+    border-radius: 0.6vw;
+    color: white;
+    padding: calc(0.30vh + 0.20vw) calc(0.80vh + 0.60vw) calc(0.30vh + 0.20vw) calc(0.80vh + 0.60vw);
+    text-align: center;
+    top: 4vh;
+    text-decoration:none;
+    display: inline-block;
+    font-size: calc(0.60vh + 0.80vw);
+    font-family:calibri;
+    cursor:pointer;
+    position:relative;
+}
+.predict-button{
+
+    background-color: deepskyblue;
+    border: 2px solid deepskyblue;
+    border-radius: 0.6vw;
+    color: white;
+    padding: calc(0.30vh + 0.20vw) calc(0.80vh + 0.60vw) calc(0.30vh + 0.20vw) calc(0.80vh + 0.60vw);
+    text-align: center;
+    top: 4vh;
+    text-decoration:none;
+    display: inline-block;
+    font-size: calc(0.60vh + 0.80vw);
+    font-family:calibri;
+    cursor:pointer;
+    position:relative;
+
+}
+.search-bar{
+    background-color: #f0f0f0;
+    color:#778c9a;
+    border-radius:0.8vw ;
+    width: 15vw;
+    height: 4.5vh;
+    font-size: calc(0.60vh + 0.70vw);
+    padding-left: 1vw;
+    padding-top: calc(0.50vh + 0.20vw);
+    padding-bottom: calc(0.50vh + 0.20vw);
+    border: 0.5px solid rgb(10, 107, 139);
+    cursor: pointer;
+    position: fixed;
+}
+#btn-group2
+{
+    transform:scale(0.9) ;
+    position: relative;
+    float: right;
+    top: 2vh;
+    border-radius:"0.6vw";
+}
+#btn-group1
+{
+    position: relative;
+    top: 2vh;
+    float: left;
+    border-radius:"0.6vw",
+}

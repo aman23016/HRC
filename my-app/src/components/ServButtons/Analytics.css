@@ -1,0 +1,6 @@
+
+.flex-wrap { display: flex; }
+.flex-wrap > * {
+  box-sizing: border-box;
+  width: 40%; padding: 10px;
+}

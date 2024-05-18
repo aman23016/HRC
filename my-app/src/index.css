@@ -1,0 +1,22 @@
+body {
+  background-color:#39495e;
+}
+
+div .main{
+  background-color: #283d4a;
+  height: auto;
+  margin-top: 10px;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+#companylogo
+{   margin-left: 0px;
+    transform: scale(0.9);
+}
+#hrclogo
+{
+    margin-top: 0%;
+    margin-left: 22%;
+    transform: scale(0.8);
+}
